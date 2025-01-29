@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Everywhere-NEWS/static/css/main.e63830ef.css",
+    "main.js": "/Everywhere-NEWS/static/js/main.d500f613.js",
+    "index.html": "/Everywhere-NEWS/index.html",
+    "main.e63830ef.css.map": "/Everywhere-NEWS/static/css/main.e63830ef.css.map",
+    "main.d500f613.js.map": "/Everywhere-NEWS/static/js/main.d500f613.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e63830ef.css",
+    "static/js/main.d500f613.js"
+  ]
+}
